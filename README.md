@@ -18,3 +18,4 @@ For the contributor covenant to this project, please check the Code of Conduct f
 [![Contributor Covenant][contributor-covenant]](CODE_OF_CONDUCT.md)
 
 [java-21]: https://openjdk.org/projects/jdk/21/
+[contributor-covenant]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
